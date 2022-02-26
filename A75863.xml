@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ad populum: or, A low-country lecture to the people of England, after a Thanksgiving dinner, Aug. 25. 1653. Whereunto is annexed an epitaph vpn M. H: Vanthromp, made by his owne secretary, and faithfully translated into English, word for word. With, another more sober epitaph by a concealed author.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75863</idno>
+            <idno type="STC">Wing A468</idno>
+            <idno type="STC">Thomason E711_16</idno>
+            <idno type="STC">ESTC R207125</idno>
+            <idno type="EEBO-CITATION">99866196</idno>
+            <idno type="PROQUEST">99866196</idno>
+            <idno type="VID">166679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166679)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E711[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ad populum: or, A low-country lecture to the people of England, after a Thanksgiving dinner, Aug. 25. 1653. Whereunto is annexed an epitaph vpn M. H: Vanthromp, made by his owne secretary, and faithfully translated into English, word for word. With, another more sober epitaph by a concealed author.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.B. in Fleetstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Netherlands --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166679:1" rendition="simple:additions"/>
+            <p>Ad Populum: OR, A Low-Country Lecture to the People OF ENGLAND, After a Thanksgiving Dinner, <hi>Aug.</hi> 25. 1653.</p>
+            <p>Whereunto is annexed an EPITAPH Vpon <hi>M. H: Vanthromp,</hi> made by his owne Secretary, and faithfully tranſlated into Engliſh, word for word.</p>
+            <p>WITH, Another more ſober Epitaph by a concealed Author.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Aug: 27<hi rend="sup">th</hi>
+               </add> LONDON, Printed for <hi>G. B.</hi> in <hi>Fleetſtreet.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:166679:2"/>
+            <head>A Low-Country Lecture to the People of <hi>England</hi> after a Thankſ<g ref="char:EOLhyphen"/>giving Dinner.</head>
+            <lg>
+               <l>AFfronted by the <hi>Dutch?</hi> A Nation that</l>
+               <l>Began on Engliſh <hi>Almes,</hi> and ſo grew <hi>fat?</hi>
+               </l>
+               <l>That owe their <hi>Livelihoods,</hi> and latter <hi>breath</hi>
+               </l>
+               <l>To our more mercifull <hi>Elizabeth;</hi>
+               </l>
+               <l>When on their bended Knees with ſtretcht out hands,</l>
+               <l>And ſtile of <hi>poore diſtreſſed Netherlands</hi>
+               </l>
+               <l>They got the <hi>Golden Fleece;</hi> ſhall theſe, grown high,</l>
+               <l>Outbrave us with their <hi>Ariſtocracy?</hi>
+               </l>
+               <l>We grant them <hi>High and Mighty,</hi> Monſtrous ſtrange;</l>
+               <l>(As th' Graſſehoppers upon the old Exchange.)</l>
+               <l>We grant their <hi>Creſts</hi> like <hi>Joves</hi> when he was <hi>Bull-</hi>
+               </l>
+               <l>
+                  <hi>Rampant,</hi> when Love-ſick, and of <hi>Vigor</hi> full:</l>
+               <l>Now, now I ſcent the plot and cunning on't,</l>
+               <l>That <hi>Jove</hi> is ſaid to croſſe the <hi>Helleſp<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt;</hi>
+               </l>
+               <l>When being aided with a preſent Fleet</l>
+               <l>He and his deare <hi>Europa</hi> went to <hi>Crete:</hi>
+               </l>
+               <l>If <hi>Hercules</hi> got <hi>forty</hi> in a Night,</l>
+               <l>How many Dutchmen <hi>Jove</hi> before day-light?</l>
+               <l>Nay Authors there are extant, that averre</l>
+               <l>That <hi>Bacchus</hi> was begot a <hi>Hollander,</hi>
+               </l>
+               <l>And after th' Act that Melancholly <hi>Jove</hi>
+               </l>
+               <l>Took <hi>Semele</hi> and thruſt her in a <hi>Stove:</hi>
+               </l>
+               <l>Yet though he lodg'd young <hi>Bacchus</hi> in his thigh,</l>
+               <l>Theſe Dutchmen find him out when they are dry;</l>
+               <l>But leſt ſome envious Wight ſhould thinke we ſtraine,</l>
+               <l>Let <hi>Barkley</hi> ſpeake, and we go on againe.</l>
+            </lg>
+            <q xml:lang="lat">Germani <hi>nullâ comitate ſuavius quam longo nec ſobrio con<g ref="char:EOLhyphen"/>viviò peregrinos credunt accipere, &amp; tam veriſſimam ab ipſis hoſpitibus benevolentiam in ſe expromi, ubi mutuis po<g ref="char:EOLhyphen"/>culis
+<pb facs="tcp:166679:2"/>innudari non-abnuunt: Immenſa cupiditas potus jans confeſſo vitio illam gentem infeſtat, nec ad voluptatem tan<g ref="char:EOLhyphen"/>tum haec Thracia libido eſt, fed in parte Comitatis &amp; penè diſciplinae,</hi> &amp;c.</q>
+            <lg>
+               <l>Eares they have eminent and <hi>Viſible,</hi>
+               </l>
+               <l>Slit but the Tip 'tis like a <hi>Teſticle,</hi>
+               </l>
+               <l>In which ſhould any of them <hi>Pendents</hi> weare,</l>
+               <l>A <hi>Jack-line</hi> to them were but as a <hi>haire;</hi>
+               </l>
+               <l>And for a <hi>Jewell</hi> to ſo grave a Pate,</l>
+               <l>Great <hi>Tom of Lincolne</hi> were moſt adaequate:</l>
+               <l>Poore <hi>Iohna Gaunt,</hi> or puny <hi>Warwicks Guy,</hi>
+               </l>
+               <l>Compar'd to theſe, is a meere <hi>Ieffery:</hi>
+               </l>
+               <l>An <hi>Hercules,</hi> or <hi>Omphale</hi> in ſtone,</l>
+               <l>Are but as <hi>Pigmies</hi> upon <hi>Pelion:</hi>
+               </l>
+               <l>That Man-devouring <hi>Lunsford</hi> were he put</l>
+               <l>Under an Arme of theirs, would only <hi>ſtrut</hi>
+               </l>
+               <l>Like a young <hi>Mandrake,</hi> or the Child that grew</l>
+               <l>Within his ſide was lately ſet at view.</l>
+               <l>What thinke we of <hi>three hundred then</hi> and more,</l>
+               <l>Borne at a litter on the <hi>Belgick</hi> ſhore,</l>
+               <l>Of theſe young <hi>Tadpole-ſpawnes?</hi> ſo vaſte a Traine,</l>
+               <l>As if ſome <hi>Pharaoh</hi> to be plagu'd againe:</l>
+               <l>Had we ſuch <hi>teeming</hi> wombes, our Army might</l>
+               <l>Give warning for an Army <hi>over-night,</hi>
+               </l>
+               <l>And armed <hi>Mirmydons</hi> next day appeare,</l>
+               <l>Ready for battle the enſuing yeare,</l>
+               <l>In coates of <hi>Secundene,</hi> inſtead of Buffe,</l>
+               <l>True coats of Male, proceeding from the Ruffe</l>
+               <l>Dame Nature weares, and freely doth beſtow</l>
+               <l>Upon theſe <hi>Red-coats</hi> ere ſhe lets them go:</l>
+               <l>Thus <hi>Cadmus</hi> with his Serpents Teeth i'th' Earth</l>
+               <l>Got <hi>Mars</hi> a new ſtock by a preſent birth;</l>
+               <l>And men <hi>ex tempore</hi> ſtood <hi>Ranke</hi> and <hi>File,</hi>
+               </l>
+               <l>Juſt as the Teeth grew in the <hi>Crocodile.</hi>
+               </l>
+               <l>An <hi>hungry</hi> Campe no doubt, and ſuch as might</l>
+               <l>
+                  <hi>Grin</hi> at the Foe, and put them all to flight.</l>
+               <l>Well, go thy way for a ſtupendious <hi>Meg.</hi>
+               </l>
+               <l>Thou needſt no <hi>Iſſue</hi> in thy Arme or Leg</l>
+               <pb facs="tcp:166679:3"/>
+               <l> To draw forth peccant humours, if we yield</l>
+               <l>Mothers <hi>entaile</hi> diſeaſes on the Child;</l>
+               <l>thou art as free from all as <hi>Eve</hi> when ſhe</l>
+               <l>Knew not a <hi>Bitter-ſweet</hi> or <hi>pippin-Tree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Lend me beliefe ſome man of <hi>Publique faith,</hi>
+               </l>
+               <l>Or I muſt ſtagger at what ſtory ſaith:</l>
+               <l>Ne're did <hi>Anatomiſts</hi> deſigne or tell</l>
+               <l>Toe very one of thoſe his <hi>ſingle Sell:</hi>
+               </l>
+               <l>Speake <hi>great Van-Helmont,</hi> how could all theſe lie</l>
+               <l>Without committing <hi>Rapes</hi> and <hi>Buggery?</hi>
+               </l>
+               <l>Grant her the <hi>ſwine fac'd Lady,</hi> elſe to big,</l>
+               <l>I muſt not thinke ſhe was ſo huge with pig;</l>
+               <l>'Tis ſo, and hence the Name of <hi>Bores</hi> that ſwill</l>
+               <l>In their crude <hi>Barly Broaths</hi> and <hi>hog waſh</hi> ſtill.</l>
+               <l>What though the River <hi>Rhene</hi> paſſe by their Coaſt?</l>
+               <l>(A thing whereof their <hi>hide-bound</hi> Writers boaſt.)</l>
+               <l>What though <hi>Pannonia</hi> yield them rich ſupplies?</l>
+               <l>Is this a plea for red diſtorted eyes?</l>
+               <l>Should one of them, o're taken, reele and fall,</l>
+               <l>'Twould cauſe an <hi>Earthquake</hi> Epidemicall:</l>
+               <l>Nay, were their <hi>Gallowſes</hi> not made of ſtone,</l>
+               <l>
+                  <hi>Aſtraea</hi> might go hang her ſelfe for one;</l>
+               <l>No Juſtice would be done, for ſhould they do't</l>
+               <l>In wood, 't would take up fifteene hundred foot,</l>
+               <l>And yet not ſerve the <hi>turne,</hi> whereas alas</l>
+               <l>They ſee not ſo much in a twelve-months ſpace;</l>
+               <l>Their Fewell is <hi>Flora's</hi> greene mantle, which</l>
+               <l>They burne, (as if their <hi>Mother</hi> was a <hi>Witch.</hi>)</l>
+               <l>A <hi>Chimny-ſweeper</hi> there is a worſe Trade</l>
+               <l>Than is a <hi>Poet</hi> here, and yet 'tis ſaid,</l>
+               <l>Our Engliſh pallats have been ſo miſtaken,</l>
+               <l>As not to know them by the taſte from <hi>Bacon:</hi>
+               </l>
+               <l>Nay more, 'tis ſaid, their hides have been ſent over,</l>
+               <l>
+                  <hi>And</hi> ſerv'd for <hi>Shoe-ſoales</hi> twenty miles round <hi>Dover.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well may the Cuts Phyſitians get from thence</l>
+               <l>Be more demonſtrative to outward ſenſe,</l>
+               <l>In whom the very <hi>Capillary</hi> Veines</l>
+               <l>Appeare like <hi>Cable-Ropes,</hi> and in their Braines</l>
+               <l>The <hi>Privy parts</hi> as viſible and faire,</l>
+               <l>As if one ſhould diſſect a <hi>Flanders Mare:</hi>
+               </l>
+               <pb facs="tcp:166679:3"/>
+               <l> The <hi>hammer</hi> in the Eare like <hi>Vulcans,</hi> and</l>
+               <l>The <hi>Drum</hi> ſtrikes an Alarum at command:</l>
+               <l>A well appointed Army might get in,</l>
+               <l>Breake through the <hi>Labyrinth</hi> and ſteale the <hi>Pin.</hi>
+               </l>
+               <l>Nor is it hyperbolicall to ſay,</l>
+               <l>
+                  <hi>Iohn Lilburne</hi> was an Eare-wigg th' other day,</l>
+               <l>And buz'd about, and did diſtill into</l>
+               <l>The <hi>Orenge-mongers</hi> what they were to do.</l>
+            </lg>
+            <lg>
+               <l>What Rage O Citizens, what madneſſe now</l>
+               <l>Makes ſuch a breach 'twixt <hi>Maurice</hi> grave and you?</l>
+               <l>He that delighteth in that title more</l>
+               <l>Than did his Predeceſtors heretofore;</l>
+               <l>Who from a <hi>Mutton</hi> fiſt would ne're refuſe</l>
+               <l>A clap upon the ſhoulder, or ſuch News</l>
+               <l>As <hi>Ieffery</hi> and <hi>Ralph</hi> tell on the way,</l>
+               <l>As they jog homewards on a Market-day;</l>
+               <l>Such as the fumes afforded that proceed</l>
+               <l>From <hi>Brande wine</hi> good ſtore and <hi>Indian weed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O were <hi>Eraſmus</hi> now alive to tell</l>
+               <l>Their <hi>Colloquies</hi> when e're they article;</l>
+               <l>How many large <hi>Beere-glaſſes</hi> bid for Peace,</l>
+               <l>How many more <hi>revi'd</hi> before they ceaſe:</l>
+               <l>Peace? 'tis a thing more eſtimable then</l>
+               <l>The ſalted <hi>Rump</hi> of a <hi>Muſcovian</hi> Hen,</l>
+               <l>No <hi>Pickled-herring</hi> like it, 'tis for this</l>
+               <l>They <hi>worſhip</hi> to their <hi>drag-net</hi> while they fiſh.</l>
+            </lg>
+            <lg>
+               <l>O for a <hi>Rhombus</hi> here to plead for Peace,</l>
+               <l>(That they might once more ſing <hi>ſweet Oranges,</hi>)</l>
+               <l>Such as the <hi>Adriatick ſeas</hi> did yield</l>
+               <l>To <hi>Nero</hi> as the Maſter of the field;</l>
+               <l>A Preſent, ſuch an one as might draw on</l>
+               <l>The moſt <hi>obdurate</hi> to compunction.</l>
+            </lg>
+            <lg>
+               <l>Were there but ſuch a <hi>Rhombus</hi> to be had,</l>
+               <l>How would the Senators at <hi>Hague</hi> be glad,</l>
+               <l>And hope their <hi>Gilders</hi> and their <hi>Duckettoones</hi>
+               </l>
+               <l>Might ſtill be theirs againſt the Afternoones</l>
+               <pb facs="tcp:166679:4"/>
+               <l> Collation, all in <hi>Drink</hi> (Jack Falſtaffe like)</l>
+               <l>No jarres but thoſe of <hi>Wine,</hi> none forc'd to ſtrike;</l>
+               <l>No cautionary Townes demanded then,</l>
+               <l>No armes be laid downe, no impeaching Men,</l>
+               <l>Nor fighting, except once in twenty yeers</l>
+               <l>Or ſo, to learne how to put on their <hi>geeres.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How might they teach this <hi>Rhombus</hi> to implore</l>
+               <l>Mercy upon the ſea, upon the ſhoare;</l>
+               <l>And put it in his mouth, to let them know,</l>
+               <l>He never was my <hi>Lord of Warwicks</hi> foe?</l>
+               <l>Never perſwaded <hi>Huls</hi> delivery,</l>
+               <l>Or tempted Sir <hi>John Hotham</hi> with a fee,</l>
+               <l>Though ſome Malignant tongue, ſome ſpightfull man</l>
+               <l>Say <hi>Rhombus</hi> is a <hi>Preſbyterian.</hi>
+               </l>
+               <l>Cozen to John of <hi>Leiden,</hi> and that he came,</l>
+               <l>The <hi>Author</hi> of that ſect to <hi>Amſterdam?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This were the way, firſt teach him how to bow,</l>
+               <l>When take his Qu, next where to ſtop, and how</l>
+               <l>To keep his countenance, and role his eye,</l>
+               <l>With a beſeeming gracefull Modeſty;</l>
+               <l>As for the ground and <hi>ſubject</hi> of his ſpeech,</l>
+               <l>Let it be all ſubmiſſive to beſeech</l>
+               <l>The victors, that they might no tribute pay,</l>
+               <l>But rather, that (for ever and a day)</l>
+               <l>Their fiſhing might be <hi>free,</hi> and what they took</l>
+               <l>Might be their owne, be it with net or hook.</l>
+               <l>How can they <hi>Tributaries</hi> be (alaſſe,)</l>
+               <l>Out of a few <hi>Poor Iohn,</hi> and a little <hi>Plaice;</hi>
+               </l>
+               <l>A <hi>ſea-dog</hi> or a <hi>Tortoiſſe,</hi> or perhaps,</l>
+               <l>A quarter of an hundred of poor <hi>Crabs.</hi>
+               </l>
+               <l>No <hi>Salmon</hi> in his mouth did ever bring</l>
+               <l>One piece of ſilver for an offering,</l>
+               <l>Nor <hi>Flounder,</hi> though his mouth would nothing bate,</l>
+               <l>In compaſſe of the <hi>Mouth</hi> at <hi>Aldersgate.</hi>
+               </l>
+               <l>If any doe for greater booties toyle,</l>
+               <l>How doe they loſe their <hi>labour</hi> and their <hi>oyle?</hi>
+               </l>
+               <l>The generous Whale, playes with her skill and power,</l>
+               <l>And ſends ſome <hi>Remora Embaſſadour</hi>
+               </l>
+               <pb facs="tcp:166679:4"/>
+               <l> To ſtop their <hi>proud</hi> deſigne, and bid them trade</l>
+               <l>In their beloved <hi>herring</hi> or dry <hi>ſhad.</hi>
+               </l>
+               <l>How ſhall an hundred thouſand precious ſoules</l>
+               <l>Drink after ſupper, in <hi>tranſcendent boules,</hi>
+               </l>
+               <l>As both their conſtitution and the fire,</l>
+               <l>They carry in their veines, eft ſoones require?</l>
+            </lg>
+            <lg>
+               <l>O <hi>Herring! Herring!</hi> thou art that <hi>King-fiſh,</hi>
+               </l>
+               <l>For whoſe offences, man muſt beare all this;</l>
+               <l>Tis for thy treſpaſſes, tis for thy ſin,</l>
+               <l>But ſee now what a pickle thou art in;</l>
+               <l>When boyes in London ſtreets with open throate,</l>
+               <l>Do cry thee up and downe for <hi>five a groat.</hi>
+               </l>
+               <l>If needs <hi>Elected</hi> Princes, let their be</l>
+               <l>The <hi>Lobſter</hi> choſen next, clad cap-a-pe:</l>
+               <l>That with <hi>defenſive</hi> Armes may gaine the field</l>
+               <l>With <hi>Naturall,</hi> not artificiall ſhield:</l>
+               <l>An <hi>Ajax</hi> that may laugh within his ſhell,</l>
+               <l>And ſtories of Great <hi>Hector</hi> vanquiſht tell.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Rhombus</hi> may not on, or farther prate,</l>
+               <l>
+                  <hi>Nature</hi> hath tooke an order well for that:</l>
+               <l>All that he ſpeaks here, is by <hi>Miracle,</hi>
+               </l>
+               <l>Having no <hi>Lungs,</hi> to helpe one ſyllable;</l>
+               <l>Yet for his Country, ſuch a heart as bleeds</l>
+               <l>To think that they muſt feed next yeare on <hi>greeds,</hi>
+               </l>
+               <l>And <hi>graines</hi> divorced from their deareſt <hi>Beer,</hi>
+               </l>
+               <l>What will become then of <hi>A vous myn heire?</hi>
+               </l>
+               <l>No ſet meales <hi>once a quarter</hi> then, where <hi>Tony</hi>
+               </l>
+               <l>Is plac'd <hi>above his Miſtris,</hi> and ſleek <hi>Ioa-ne</hi>
+               </l>
+               <l>Drinks to her maſter ſet <hi>at lower end,</hi>
+               </l>
+               <l>By <hi>nodd</hi> and not by <hi>word,</hi> as to her friend.</l>
+               <l>Some hope is of <hi>Converſion,</hi> where the <hi>Iew</hi>
+               </l>
+               <l>Sits with the <hi>Gentile</hi> (were it ſo 'ith <hi>Pew</hi>)</l>
+               <l>No more of <hi>Aarons Bels,</hi> no more I tro,</l>
+               <l>Of very <hi>Moſes,</hi> brought out for a ſhew,</l>
+               <l>With <hi>ten Commandements</hi> (the 11th would be</l>
+               <l>Not to abuſe him, were it very he)</l>
+               <l>No more ſhall <hi>Innocents</hi> of eight dayes old,</l>
+               <l>Expoſed lie, to cruelty and cold.</l>
+               <pb facs="tcp:166679:5"/>
+               <l> No more, no more of <hi>Circumciſion</hi> boaſt,</l>
+               <l>'Tis ſeen how the <hi>Virility</hi> is loſt.</l>
+               <l>Policy, now bids you get men indeed,</l>
+               <l>Give them <hi>Reſtoratives,</hi> not make them <hi>bleed:</hi>
+               </l>
+               <l>That they may tug the <hi>Oares</hi> and <hi>Canvas</hi> ſpread,</l>
+               <l>When the remainder of mankinde is dead:</l>
+               <l>And every <hi>Pirrha,</hi> when her mate is gon</l>
+               <l>Officiate for her loſt <hi>Deu calion.</hi>
+               </l>
+               <l>If once more yee are beat, let th' women all,</l>
+               <l>Enter themſelves into <hi>Mall Cut-purſe Hall.</hi>
+               </l>
+               <l>Whence a new ſtock may come, that ſcorne to wink</l>
+               <l>And fight, when for their wench, and not their drink.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="epitaph">
+            <head>EPITAPH.</head>
+            <lg>
+               <l>HEre lies his <hi>high and mightineſſe</hi>—Hick-up,</l>
+               <l>—ſirrha you Raſchall fill out tother cup,</l>
+               <l>His <hi>High and mightineſſe</hi>—(for there I think</l>
+               <l>I left off)—ſirrha ſhall we have no drinke?</l>
+               <l>His <hi>high and mightineſſe</hi>—Lord of what not,</l>
+               <l>Lord of—you rogue bring up a chamber pot.</l>
+               <l>Lord of what not, Lord of (ſo farre I'me right,</l>
+               <l>Bring in ſome cleane pipes quickly, and a light)</l>
+               <l>—Lord of what not—Lord of the Ocean deep,</l>
+               <l>—Hang'd let another make it, I muſt ſleep.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>Another.</head>
+            <lg>
+               <l>HEre with his face towards Heaven, great <hi>Tromp</hi> is laid,</l>
+               <l>(Thus grinning honour <hi>Titles,</hi> thus are paid)</l>
+               <l>A Ship his <hi>Tombe</hi> and <hi>Coffin,</hi> where poor he,</l>
+               <l>Lies a ſad <hi>Omen</hi> to his <hi>Souldiery.</hi>
+               </l>
+               <l>The <hi>calmer</hi> gales in vain now fan the deep,</l>
+               <l>In vaine they rock the Barque; <hi>hee's faſt aſleep.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
